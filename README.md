@@ -1,1 +1,3 @@
-# weather-app
+# Weather App
+
+User-interactive web page
